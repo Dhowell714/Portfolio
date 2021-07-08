@@ -1,0 +1,42 @@
+.imgFill {
+    height: 450px;
+    border: black;
+    border-radius: 20%;
+}
+
+.imgFill1 {
+    height: 200px;
+}
+
+.skillsDesc1 {
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
+.skillsDesc2 {
+    margin-left: 130%;
+    margin-bottom: 20%;
+}
+
+.skillsTitles1 {
+    margin-left: 30%;
+}
+
+.skillsTitles2 {
+    margin-left: 130%;
+}
+
+.portfolioList {
+    background-color: blueviolet;
+}
+
+#bootstrap {
+    height: 150px;
+    margin-top: 30%;
+    margin-left: 120%;
+}
+
+h2 {
+    font-size: 500%;
+    color: black;
+}
