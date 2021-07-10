@@ -27,7 +27,7 @@
 }
 
 .portfolioList {
-    background-color: blueviolet;
+    background: linear-gradient(180deg, #5BCEFA 20%, #F5A9B8 20%, 40%, #FFFFFF 40%, 60%, #F5A9B8 60%, 80%, #5BCEFA 80%);
 }
 
 #bootstrap {
@@ -39,4 +39,46 @@
 h2 {
     font-size: 500%;
     color: black;
+}
+
+.py-5 {
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    color: white;
+}
+
+.col-lg-3 col-md-3 col-sm-6 text-center {
+    float: left;
+}
+
+#html {
+    height: 150px;
+    margin-left: 20%;
+}
+
+#css {
+    height: 150px;
+    margin-left: 5%;
+}
+
+#javascript {
+    height: 150px;
+    margin-left: 5%;
+}
+
+#bootstrap {
+    height: 150px;
+    margin-left: -25%;
+}
+
+#github {
+    height: 150px;
+    margin-left: -30%;
+    margin-bottom: -30%;
+}
+
+#firebase {
+    height: 150px;
+    margin-left: -30%;
+    margin-bottom: -30%;
 }
