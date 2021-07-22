@@ -1,3 +1,9 @@
+.aboutImgBox col-lg-5 col-sm-7 {
+    height: 450px;
+    border: black;
+    border-radius: 20%;
+}
+
 .imgFill {
     height: 450px;
     border: black;
